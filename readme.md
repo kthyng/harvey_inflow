@@ -35,4 +35,4 @@ Within the project directory, open a local jupyter notebook server. In a termina
 
 ## Run instructions
 
-To reproduce the work in this paper, open and run notebook `run`, which will run the other notebooks in proper.
+To reproduce the work in this paper, open and run notebook `run`, which will run the other notebooks in proper order.
