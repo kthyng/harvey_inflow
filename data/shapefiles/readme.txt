@@ -1,0 +1,1 @@
+The shapefiles galv_ws_nad83_prj_albers_equal_area_conic_USGS and usgs_gauges_clipped_galv_ws_albers_equal_area_conic.shp are from TWDB.
