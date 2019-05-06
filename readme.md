@@ -35,4 +35,4 @@ Within the project directory, open a local jupyter notebook server. In a termina
 
 ## Run instructions
 
-To reproduce the work in this paper, start with `0_process_bathy` notebook and proceed through numbered notebooks, running all cells. You can change attributes in the notebooks and rerun to see the impact to the results.
+To reproduce the work in this paper, open and run notebook `run`, which will run the other notebooks in proper.
