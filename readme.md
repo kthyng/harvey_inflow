@@ -19,6 +19,7 @@ I recommend setting up an environment in conda to get the necessary packages wit
   * `source activate harvey`
 * Install another package into environment (not available in conda-forge):
   * available at github.com/kthyng/tabs; installation instructions there
+  * or just pip install: `pip install tabs-buoys`
 
 
 ## Get notebooks
