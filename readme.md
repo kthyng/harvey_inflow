@@ -14,7 +14,7 @@ I recommend setting up an environment in conda to get the necessary packages wit
   *  in add conda-forge channel to top of channels
      * `conda config --add channels conda-forge --force`
   * Create conda environmenta called `harvey` with the packages listed already installed
-    * `conda create --name harvey cartopy matplotlib ipython jupyter netCDF4 pandas cmocean numpy scipy xarray shapely  --yes`
+    * `conda create --name harvey cartopy matplotlib ipython jupyter netCDF4 pandas cmocean numpy scipy xarray shapely fiona  --yes`
 * Switch to new environment: in terminal window type:
   * `source activate harvey`
 * Install another package into environment (not available in conda-forge):
